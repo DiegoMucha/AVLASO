@@ -1,0 +1,10 @@
+[project]
+name = "avlaso"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openai>=2,<3",
+    "python-dotenv>=1,<2",
+]
